@@ -26,6 +26,8 @@
   Once the repo is cloned, open in terminal and use npm run build, to make the dist file. Then npm run start:dev to run the server locally.
   OR 
   Navigate to https://radiant-temple-80528.herokuapp.com/
+
+  ![Screenshot of deployed application](./Assets/JATE.png)
   
   
   ## Contributions
